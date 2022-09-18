@@ -13,11 +13,11 @@ class EchoList extends StatefulWidget {
 
 class _EchoListState extends State<EchoList> {
   List<Quote> quotes = [
-    Quote(text: 'Do not tell people your plans.', author: 'Rajan1'),
-    Quote(author: 'Rajan2', text: 'I see humans but no humanity'),
+    Quote(text: 'Do not tell people your plans.', author: 'vikram1'),
+    Quote(author: 'vikram2', text: 'I see humans but no humanity'),
     Quote(
         text: 'The time is always right to do what is right',
-        author: 'Rajan3'),
+        author: 'vikram3'),
   ];
   Widget quoteTemplate(quote) {
     return Card(
