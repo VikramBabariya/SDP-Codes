@@ -133,7 +133,7 @@ void main(List<String> arguments) {
   // Mini-exercise
   // 1)
   final Map<String, String> info = {
-    'name': 'Amisha',
+    'name': 'vikram',
     'profession': 'student',
     'country': 'India',
     'city': 'Nadiad'
