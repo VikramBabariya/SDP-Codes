@@ -100,7 +100,7 @@ print(someInt.isEven);//false
 /*
 //strings
   String s = "hey";
-  s = "rajan";
+  s = "vikram";
   print(s);
   print("Hello, Dart!!");
   //since you used the var keyword , you're allowed to reassign the value of greeting as long as the new value is still a string.

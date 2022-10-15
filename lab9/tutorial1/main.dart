@@ -14,10 +14,10 @@ class _EchoListState extends State<EchoList> {
 
   List<Quote> quotes = [
     Quote(text: 'The truth is realy pure and never simple',author:
-    'Rajan1'),
-    Quote(author: 'Rajan2', text: 'I see humans but no humanity'),
+    'vikram1'),
+    Quote(author: 'vikram2', text: 'I see humans but no humanity'),
     Quote(text: 'The time is always right to do what is right',author:
-    'Rajan3'),
+    'vikram3'),
   ];
 
 

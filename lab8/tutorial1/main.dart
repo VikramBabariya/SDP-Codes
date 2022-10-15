@@ -210,7 +210,7 @@ class FinalTest1 extends StatelessWidget {
             ),
             SizedBox(height: 10),
             Text(
-              'Rajan Unagar',
+              'vikram babariya',
               style: TextStyle(
                 color: Colors.blue[900],
                 letterSpacing: 2.0,
@@ -246,7 +246,7 @@ class FinalTest1 extends StatelessWidget {
                 ),
                 SizedBox(width: 12.0),
                 Text(
-                  'unagarrajan07@gmail.com',
+                  'vikram000712345@gmail.com',
 
                   style: TextStyle(
 
